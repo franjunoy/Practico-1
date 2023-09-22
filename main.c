@@ -7,3 +7,11 @@ void arreglo(int elem[]){
         printf("\n", elem[i]);
         }
 }
+void apila(int x){
+    if(ntamao()==TAM){
+        printf("No entran mas elementos\n");
+    }else{
+        cima++;
+        elem[cima]=x;
+    }
+}
