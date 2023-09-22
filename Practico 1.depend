@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1574443631 source:c:\users\santi\desktop\fran c\practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaArray.h"
+
+1574031610 c:\users\santi\desktop\fran c\practico 1\practico1.h
+
+1574443163 c:\users\santi\desktop\fran c\practico 1\pilaarray.h
+
